@@ -29,6 +29,7 @@ the json object looks like this:
 
 if you want to create your own `jc.json` you can do so by querying the https://emploi.belgique.be/ API endpoint https://public-search.emploi.belgique.be/website-service/joint-work-convention/search using a POST request containing a json in the body. The request json looks like this:
 <br>
+<br>
 ![alt text](/assets/requestjson.png)
 
 A Postman request will look like this :
