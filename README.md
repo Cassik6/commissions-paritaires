@@ -11,36 +11,10 @@ this repo is containing
 
 the json object looks like this:
 
-{
-        "jcId": 1000000,
-        "jcFr": "COMMISSION PARITAIRE AUXILIAIRE POUR OUVRIERS",
-        "jcNl": "AANVULLEND PARITAIR COMITE VOOR DE WERKLIEDEN",
-        "titleFr": "La procédure de mise en uvre et les conditions d'octroi d'un régime de chômage avec complément d'entreprise - travail de nuit, métier lourd (2021-2022).",
-        "titleNl": "Procedure van tenuitvoerlegging en van de voorwaarden voor de toekenning betreffende het stelsel van werkloosheid met bedrijfstoeslag - nachtarbeid, zwaar beroep (2021-2022).",
-        "themesFr": [
-            "RÉGIME DE CHÔMAGE AVEC COMPLÉMENT D'ENTREPRISE (RCC)"
-        ],
-        "themesNl": [
-            "STELSEL VAN WERKLOOSHEID MET BEDRIJFSTOESLAG (SWT)"
-        ],
-        "signatureDate": "2019-11-13T11:00:00.000+0000",
-        "validityDate": "2022-12-31T11:00:00.000+0000",
-        "depositDate": "2019-11-27T11:00:00.000+0000",
-        "recordDate": "2020-02-04T11:00:00.000+0000",
-        "depositRegistrationDate": "2020-02-04T11:00:00.000+0000",
-        "depositNumber": 156733,
-        "enforced": true,
-        "royalDecreeDate": null,
-        "noticeDepositMBDate": "2020-02-17T11:00:00.000+0000",
-        "publicationRoyalDecreeDate": null,
-        "correctedDate": null,
-        "documentLink": "100/100-2019-014748.pdf",
-        "documentSize": "455 Kb",
-        "scopeFr": null,
-        "scopeNl": null,
-        "noScopeFr": null,
-        "noScopeNl": null
-    }
+if you want to download your own json you can do so but querying the https://emploi.belgique.be/ API endpoint https://public-search.emploi.belgique.be/website-service/joint-work-convention/search using a POST request containing a json in the body. The request json looks like this:
+
+
+
 
 # How
 Note that the pdf files are already downloaded, but the code is still provided so you could do it yourself if need be.
