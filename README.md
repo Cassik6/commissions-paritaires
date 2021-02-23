@@ -1,4 +1,4 @@
-This repo serves as a way to download about 4000 Pdf containing joint commissions (commissions paritaires) ranging from jan 2018 to febr 2020.
+This repo serves as a way to download about 3000 Pdf containing joint commissions (commissions paritaires) ranging from jan 2018 to febr 2020.
 
 # Why 
 
