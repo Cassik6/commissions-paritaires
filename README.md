@@ -10,6 +10,7 @@ this repo is containing
 - jc_dowload_script.py file script to download all the pdfs
 
 the json object looks like this:
+![alt text](https://github.com/Cassik6/commissions-paritaires/blob/main/assets/requestjson.jpg?raw=true)
 
 if you want to download your own json you can do so but querying the https://emploi.belgique.be/ API endpoint https://public-search.emploi.belgique.be/website-service/joint-work-convention/search using a POST request containing a json in the body. The request json looks like this:
 
