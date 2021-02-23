@@ -7,6 +7,8 @@ In the context of the project assigned to us by KPMG, we need to extract pdfs co
 # How
 Note that the pdf files are already downloaded, but the code is still provided so you could do it yourself if need be.
 
+if you dont already have `virtualenv`, here's a [link](https://virtualenv.pypa.io/en/latest/installation.html) to do so.
+
 1. Download the repo
 2. open a python terminal and navigate to the repo folder
 3. type : `venv/Scripts/activate` to activate the virtual environement.
